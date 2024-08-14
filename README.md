@@ -1,4 +1,4 @@
--                                                             ####👋 Hi, I’m Bhagyshree :sunglasses:
+- 👋 Hi, I’m Bhagyshree 🤓
 - 👀 I’m interested in learnig new things
 - 🌱 I’m currently learnt Data scientist course 
 - 💞️ I’m looking to collaborate on Learning and Knowledge Sharing
