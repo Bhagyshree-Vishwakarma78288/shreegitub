@@ -7,9 +7,9 @@
 - ⚡ Fun fact: Bananas are berries, but strawberries aren't. In botanical terms, bananas fit the criteria for berries, while strawberries do not.
 
 - 🛠** Tools
-- 💻 Python
+- 💻 Python 
 - 🗃️ SQL
-- 📊 Excel
+- <span style="font-size:36px;">📊</span> Excel
 - 📈 Power-BI
 - 📊 📈 Data analysis & Manipulating data using Pandas 
 
