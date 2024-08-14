@@ -6,6 +6,13 @@
 - 😄 Pronouns: She
 - ⚡ Fun fact: Bananas are berries, but strawberries aren't. In botanical terms, bananas fit the criteria for berries, while strawberries do not.
 
+- 🛠** Tools
+- 💻 Python
+- 🗃️ SQL
+- 📊 Excel
+- 📈 Power-BI
+- 📊 📈 Data analysis & Manipulating data using Pandas 
+
 <!---
 shreegitub/shreegitub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
