@@ -9,7 +9,7 @@
 - 🛠** Tools
 - 💻 Python 
 - 🗃️ SQL
-- <span style="font-size:36px;">📊</span> Excel
+- 📊 Excel
 - 📈 Power-BI
 - 📊 📈 Data analysis & Manipulating data using Pandas 
 
