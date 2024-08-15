@@ -2,10 +2,10 @@
 - 👀 I’m interested in learnig new things
 - 🌱 I’m currently learnt Data scientist course 
 - 💞️ I’m looking to collaborate on Learning and Knowledge Sharing
-- 📫 How to reach me er.bsv8871@gmail.com
+- 📫 How to reach me https://linkedin.com/in/bhagyshree-vishwakarma-b083422b2
+-                    https://www.kaggle.com/shreevishwakarma 
 - 😄 Pronouns: She
 - ⚡ Fun fact: Bananas are berries, but strawberries aren't. In botanical terms, bananas fit the criteria for berries, while strawberries do not.
-
 - 🛠** Tools
 - 💻 Python 
 - 🗃️ SQL
